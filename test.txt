@@ -1,0 +1,10 @@
+this project is to implement sorting
+the faster the better
+there are totally ten lines
+first line to sort
+followed by the third one
+which is followed by the fifth
+but this line is next
+and we also have a seventh
+just to wrap up
+this will be the final of all
